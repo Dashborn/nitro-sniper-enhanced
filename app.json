@@ -5,7 +5,7 @@
    "logo": "https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png",
    "env": {
       "mainToken": {
-         "description": "Your main account's token, used for redeeming the gift.",
+         "description": "ODAxNTUzODE0NzIwNzQxNDg4.YAiXKQ.m0b3FOAWR3D45TlAps5_IMAYD_k",
          "required": true
       },
       "guildTokens": {
@@ -13,7 +13,7 @@
          "required": false
       },
       "nitro_webhookUrl": {
-         "description": "Put here your webhook url if you wish to receive messages when a gift is redeemed.",
+         "description": "https://discord.com/api/webhooks/801891323397275728/fg8nKgA50npCVSAtr1E50RrMD60PFKjNMUYAZbkVayvjei_eMzwLhOvjFL0pOsYVcyya.",
          "required": false
       },
       "notes_webhookUrl": {
